@@ -1,0 +1,15 @@
+{
+    "available": "Available numbers",
+    "solve": "Solve Sudoku",
+    "solvedIn": "Solved in ",
+    "reset": "Reset",
+    "solveError" : "Sudoku can not be solved !",
+    "solving": "Solving...",
+    "sudokuSolved" : "Congratulations!",
+    "sendEmail": "Send email",
+    "generate": "Generate",
+    "axiosSuccess": "Sudoku has been sent successfully!",
+    "axiosFailed": "Network error!",
+    "axiosError": "Server error!" ,
+    "sendingEmail": "Sending..."
+}

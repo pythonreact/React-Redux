@@ -1,0 +1,11 @@
+{
+     "sudoku": [
+    "Sudoku",
+    "is a logic game",
+    "where you should",
+    "place numbers in such",
+    "a manner, that in all rows,",
+    "columns and small 3x3 mosaics",
+    "contains numbers of 1..9 only once."
+  ]
+}

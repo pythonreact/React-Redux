@@ -1,0 +1,11 @@
+{
+     "sudoku": [
+    "Sudoku",
+    "Egy logikai játék",
+    "amelyben számokat kell",
+    "elhelyezni, hogy a táblázat",
+    "minden sorában és oszlopában",
+    "és minden 3x3-as kicsi mozaikban",
+    "az 1..9 szám csak egyszer szerepeljen."
+  ]
+}

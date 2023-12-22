@@ -1,0 +1,15 @@
+{
+    "available": "Felhasználható számok",
+    "solve": "Megoldás",
+    "solvedIn": "Megoldva ",
+    "reset": "Törlés",
+    "solveError": "A sudoku-t nem lehet megoldani",
+    "solving": "Számolás...",
+    "sudokuSolved": "Gratulálok!",
+    "sendEmail": "Email küldése",
+    "generate": "Generálás",
+    "axiosSuccess": "Sudoku sikeresen elküldve!",
+    "axiosFailed": "Hálózati hiba!",
+    "axiosError": "Szerver hiba!",
+    "sendingEmail": "Küldés..."
+}
